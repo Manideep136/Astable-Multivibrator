@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-F_Cu.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-B_Cu.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-F_Paste.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-B_Paste.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-F_Mask.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-B_Mask.gbr'.
+Plotted to 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Astable Multivibrator\Gerber\Astable Multivibrator-job.gbrjob'.
+Info: Done.
